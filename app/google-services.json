@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834295604196",
+    "project_id": "seniorguardproject",
+    "storage_bucket": "seniorguardproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834295604196:android:2ef714a98747eb4d1a5df1",
+        "android_client_info": {
+          "package_name": "com.example.seniorguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJ6AKLI_UgNdoV-I1wecJKgnHq8U7aeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
